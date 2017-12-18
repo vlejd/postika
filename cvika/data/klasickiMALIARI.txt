@@ -1,0 +1,64 @@
+Name                Composition Drawing Colour Expression School
+DaUdine                  10       8     16          3      A
+DaVinci                  15      16      4         14      A
+DelPiombo                 8      13     16          7      A
+DelSarto                 12      16      9          8      A
+Fr.Penni                  0      15      8          0      A
+GuilioRomano             15      16      4         14      A
+Michelangelo              8      17      4          8      A
+PerinoDelVaga            15      16      7          6      A
+Perugino                  4      12     10          4      A
+Raphael                  17      18     12         18      A
+F.Zucarro                10      13      8          8      B
+Fr.Salviata              13      15      8          8      B
+Parmigiano               10      15      6          6      B
+Primaticcio              15      14      7         10      B
+T.Zucarro                13      14     10          9      B
+Volterra                 12      15      5          8      B
+Barocci                  14      15      6         10      C
+Cortona                  16      14     12          6      C
+Josepin                  10      10      6          2      C
+L.Jordaens               13      12      9          6      C
+Testa                    11      15      0          6      C
+Vanius                   15      15     12         13      C
+Bassano                   6       8     17          0      D
+Bellini                   4       6     14          0      D
+Giorgione                 8       9     18          4      D
+Murillo                   6       8     15          4      D
+PalmaGiovane             12       9     14          6      D
+PalmaVecchio              5       6     16          0      D
+Pordenone                 8      14     17          5      D
+Tintoretto               15      14     16          4      D
+Titian                   12      15     18          6      D
+Veronese                 15      10     16          3      D
+Albani                   14      14     10          6      E
+Caravaggio                6       6     16          0      E
+Corregio                 13      13     15         12      E
+Domenichino              15      17      9         17      E
+Guercino                 18      10     10          4      E
+Lanfranco                14      13     10          5      E
+TheCarraci               15      17     13         13      E
+Durer                     8      10     10          8      F
+Holbein                   9      10     16         13      F
+Pourbus                   4      15      6          6      F
+VanLeyden                 8       6      6          4      F
+Diepenbeck               11      10     14          6      G
+J.Jordaens               10       8     16          6      G
+OthoVenius               13      14     10         10      G
+Rembrandt                15       6     17         12      G
+Rubens                   18      13     17         17      G
+Teniers                  15      12     13          6      G
+VanDyck                  15      10     17         13      G
+Bourdon                  10       8      8          4      H
+LeBrun                   16      16      8         16      H
+LeSuer                   15      15      4         15      H
+Poussin                  15      17      6         15      H
+
+# A = Renaissance
+# B = Mannerist
+# C = Seicento
+# D = Venetian
+# E = Lombard
+# F = Sixteenth Century
+# G = Seventeenth Century
+# H = French
